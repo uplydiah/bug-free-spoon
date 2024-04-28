@@ -1,1 +1,2 @@
-# bug-free-spoon
+Certain animal parts are simple, i.e., divided into parts that are uniform with themselves, like flesh; other animal parts, on the other hand, are composite, that is, divided into portions that are not uniform with themselves, like the hand does not divide into hands nor the face into faces.
+And of these, some are referred to as limbs or members instead of just parts. These are the parts that, although complete in and of themselves, contain other diverse parts. For example, the head, foot, hand, arms as a whole, and chest are all complete parts in and of themselves, but they also contain other diverse parts.
